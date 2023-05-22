@@ -26,7 +26,7 @@
                 </li>
                 <li>
                   <nuxt-link to="#"
-                    ><img src="../../images/Dark mode.svg" alt="" class="w-16"
+                    ><img src="../../images/Dark_mode.svg" alt="" class="w-16"
                   /></nuxt-link>
                 </li>
               </ul>
